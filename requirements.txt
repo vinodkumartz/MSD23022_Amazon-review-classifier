@@ -1,0 +1,15 @@
+seaborn
+numpy
+pandas
+scikit-learn
+nltk
+spacy
+langid
+plotly
+cufflinks
+fastai
+opendatasets
+tarfile
+pyngrok
+streamlit
+
